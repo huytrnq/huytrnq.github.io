@@ -37,7 +37,11 @@ I am an experienced AI engineer with a strong background in applied AI. Over the
 ### Research Assistant
 **International Research Institute MICA**  
 **Duration:** February 2019 – March 2020  
-- Co-authored papers on human activity recognition and AI-based monitoring systems.
+- Contributed as an author to the paper "Systematic Evaluation of Deep Learning Models for Human Activity Recognition Using Accelerometer."
+- Evaluated and visualized accelerometer data for human activity recognition.
+- Researched Capsule Networks compared to traditional deep learning models like CNN and DeepConvLSTM.
+- Developed an AI system with a smartwatch app and web service, achieving over 80% accuracy for five upper body activities; work published in IEEE Access journal.
+- Designed an automated vision-based system for real-time personal protective equipment (PPE) detection; results presented at the Korea-Vietnam International Joint Workshop on Communications and Information.
 
 ## 🎓 Education
 
