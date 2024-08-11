@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## 📝 About Me
 I am an experienced AI engineer with a strong background in applied AI. Over the past 4 years, I have worked on various projects in fields such as traffic, surveillance, and medical applications. Currently, I am pursuing my Erasmus Mundus Joint Masters in Medical Imaging and Applications. I am currently open to internships or new job opportunities. Please take a look at my [CV](https://drive.google.com/file/d/1jvrcpfbPiqtsYQaPLIBRU1rSzY_1HaSw/view) for more details.
 

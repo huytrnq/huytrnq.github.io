@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
 Hi there, I’m Quang-Huy Tran.  
 I’m an AI engineer and Erasmus Scholar currently pursuing a Master of Medical Imaging and Applications at the University of Burgundy, University of Cassino, and University of Girona. My work is deeply rooted in the development and optimization of AI models, with a strong focus on applications in medical imaging, smart traffic systems, and computer vision.
 
