@@ -3,7 +3,7 @@ title: "Helmet Rule Violation Detection for Motorcyclists using a Custom Trackin
 collection: publications
 permalink: /publication/Helmet_Rule_Violation_Detection_for_Motorcyclists_Using_a_Custom_Tracking
 excerpt: 'Many countries still face the challenge of enforcing the helmet rule and ensuring compliance among riders. In this paper, we propose a novel framework that can differentiate between the driver and passengers and detect helmet rule violations for each rider empowered by computer vision and deep learning techniques.'
-date: 203-06-17
+date: 2023-06-17
 venue: 'IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops'
 # slidesurl: 'http://huytrnq.github.io/files/slides2.pdf'
 paperurl: 'http://huytrnq.github.io/files/Helmet_Rule_Violation_Detection_for_Motorcyclists_Using_a_Custom_Tracking.pdf'
