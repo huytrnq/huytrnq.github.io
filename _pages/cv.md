@@ -8,18 +8,18 @@ redirect_from:
 ---
 
 ## 📝 About Me
-I am an experienced AI engineer with a strong background in applied AI. Over the past 4 years, I have worked on various projects in fields such as traffic, surveillance, and medical applications. Currently, I am pursuing my Erasmus Mundus Joint Masters in Medical Imaging and Applications. I am currently open to internships or new job opportunities. Please take a look at my [CV](https://drive.google.com/file/d/1ax9XMtiHUF9ya2zlHN85LB1ezj_SACuQ/view?usp=sharing) for more details.
+I am an experienced AI/Computer Vision Engineer with a strong background in applied AI. Over the past 4 years, I have worked on various projects in fields such as traffic, surveillance, and medical applications. Currently, I am pursuing my Erasmus Mundus Joint Masters in Medical Imaging and Applications. I am currently open to internships or new job opportunities. Please take a look at my [CV](https://drive.google.com/file/d/1ax9XMtiHUF9ya2zlHN85LB1ezj_SACuQ/view?usp=sharing) for more details.
 
 
 ## 💼 Experience
 
-### AI Engineer Internship
+### AI/Computer Vision Engineer Internship
 **Otek Consulting**  
 **Duration:** February 2024 – March 2024  
 - Developed AI solutions for detecting ships and harbors in satellite images.
 - Implemented data scraping techniques and managed data storage using MySQL.
 
-### AI Engineer
+### AI/Computer Vision Engineer
 **VNPT Information Technology Company**  
 **Duration:** March 2020 – August 2023  
 - Smart Traffic: Developed AI models for vehicle detection and license plate recognition; optimized Deepstream pipelines in collaboration with Nvidia, achieving a 3x performance improvement.
