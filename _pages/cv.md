@@ -13,11 +13,11 @@ I am an experienced AI/Computer Vision Engineer with a strong background in appl
 
 ## 💼 Experience
 
-### AI/Computer Vision Engineer Internship
+<!-- ### AI/Computer Vision Engineer Internship
 **Otek Consulting**  
 **Duration:** February 2024 – March 2024  
 - Developed AI solutions for detecting ships and harbors in satellite images.
-- Implemented data scraping techniques and managed data storage using MySQL.
+- Implemented data scraping techniques and managed data storage using MySQL. -->
 
 ### AI/Computer Vision Engineer
 **VNPT Information Technology Company**  

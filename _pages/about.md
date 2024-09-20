@@ -17,6 +17,8 @@ AI in Medical Imaging and Applications
 Deep Learning and Computer Vision for Real-World Applications  
 Self-Supervised Learning in Medical Diagnostics  
 Federated Learning for Distributed AI Models
+Optimization on CUDA for Accelerated AI Model Performance
+
 
 ## 🎓 Education
 
