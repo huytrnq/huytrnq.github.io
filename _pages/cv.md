@@ -99,9 +99,9 @@ _Ha Noi University of Science and Technology_
   Software Engineer Project: Developed a tool to semi-automatically label data for object detection
 - [**CareNet**](https://github.com/huytrnq/CareNet)  
   Distributed Programming Project: Web application designed to help users connect with medical professionals
-- [**Skin Lesion Classification**](https://github.com/huytrnq/Skin-Lesion-Classification)
+- [**Skin Lesion Classification**](https://github.com/huytrnq/Skin-Lesion-Classification)  
   Machine Learning Project: Developed a machine learning model for skin lesion classification, addressing two tasks: three-class classification and binary classification. Achieved top-ranking results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.773 (1st place) for three-class classification and 0.856 (2nd place) for binary classification.
-- [**Expectation Maximization Algorithm**](https://github.com/huytrnq/ExpectationMaximization)
+- [**Expectation Maximization Algorithm**](https://github.com/huytrnq/ExpectationMaximization)  
   Image Segmentation Project: Implemented the Expectation Maximization algorithm for image segmentation.
 
 ### Challenges
