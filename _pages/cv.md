@@ -94,7 +94,7 @@ _Ha Noi University of Science and Technology_
 
 ### Projects
 - [**Deep Leison Classification**](https://github.com/huytrnq/Deep-Skin-Lesion-Classification)
-  Deep Learning Project: Developed a deep learning model for skin lesion classification. Achieved 1st place results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.957 (1st place) for three-class classification and 0.952 (2nd place) for binary classification.
+  Deep Learning Project: Developed a deep learning model for skin lesion classification. Achieved top-ranking results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.957 (1st place) for three-class classification and 0.952 (1st place) for binary classification.
 - [**Brain Tissue Segmentation**](https://github.com/huytrnq/BrainSegmentation)  
   Medical Imaging Project: Developed a model for brain tissue segmentation in MRI images. Developed different methods for brain mri segmentation, including slice-based segmentation, 3D segmentation and patch-based segmentation. The final model achieved an average Dice score of 0.940
 - [**Lung Registration**](https://github.com/Sumeet-Dash1/MIRA-COPDgene)
