@@ -93,16 +93,20 @@ _Ha Noi University of Science and Technology_
 ## 🚀 Projects & Challenges
 
 ### Projects
+- [**Deep Leison Classification**](https://github.com/huytrnq/Deep-Skin-Lesion-Classification)
+  Deep Learning Project: Developed a deep learning model for skin lesion classification. Achieved 1st place results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.957 (1st place) for three-class classification and 0.952 (2nd place) for binary classification.
+- [**Brain Tissue Segmentation**](https://github.com/huytrnq/BrainSegmentation)  
+  Medical Imaging Project: Developed a model for brain tissue segmentation in MRI images. Developed different methods for brain mri segmentation, including slice-based segmentation, 3D segmentation and patch-based segmentation. The final model achieved an average Dice score of 0.940
+- [**Skin Lesion Classification**](https://github.com/huytrnq/Skin-Lesion-Classification)  
+  Machine Learning Project: Developed a machine learning model for skin lesion classification, addressing two tasks: three-class classification and binary classification. Achieved top-ranking results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.773 (1st place) for three-class classification and 0.856 (2nd place) for binary classification.
+- [**Expectation Maximization Algorithm**](https://github.com/huytrnq/ExpectationMaximization)  
+  Image Segmentation Project: Implemented the Expectation Maximization algorithm for image segmentation.
 - [**Wrist Fracture Detection**](https://github.com/huytrnq/Wrist-Fracture-Detection)  
   Advanced Image Analysis, Machine Learning/Deep Learning Project: Developed an AI model to detect wrist fractures in X-ray images
 - [**Semi Automated Data Labeling Tool**](https://github.com/huytrnq/Semi-Automated-Data-Labeling-Tool)  
   Software Engineer Project: Developed a tool to semi-automatically label data for object detection
 - [**CareNet**](https://github.com/huytrnq/CareNet)  
   Distributed Programming Project: Web application designed to help users connect with medical professionals
-- [**Skin Lesion Classification**](https://github.com/huytrnq/Skin-Lesion-Classification)  
-  Machine Learning Project: Developed a machine learning model for skin lesion classification, addressing two tasks: three-class classification and binary classification. Achieved top-ranking results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.773 (1st place) for three-class classification and 0.856 (2nd place) for binary classification.
-- [**Expectation Maximization Algorithm**](https://github.com/huytrnq/ExpectationMaximization)  
-  Image Segmentation Project: Implemented the Expectation Maximization algorithm for image segmentation.
 
 ### Challenges
 - [**7th AI City Challenge 2023**](https://github.com/huytrnq/AI-City-Challenge-2023)  
@@ -115,3 +119,5 @@ _Ha Noi University of Science and Technology_
 - **KAIST EE Camp Exchange 2018:** Selected among top students for academic excellence.
 - **Scientific Research Contest 2019:** Received Excellent Applicable Prize.
 - **7th AI City Challenge 2023:** Achieved Third Place on Public Board.
+- **MAIA Machine Learning Skin Lesion Classification Challenge:** Achieved 1st place results for three-class classification and 2nd place for binary classification.
+- **MAIA Deep Learning Skin Lesion Classification Challenge:** Achieved 1st place results for three-class classification and 2nd place for binary classification.
