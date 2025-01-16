@@ -121,5 +121,5 @@ _Ha Noi University of Science and Technology_
 - **KAIST EE Camp Exchange 2018:** Selected among top students for academic excellence.
 - **Scientific Research Contest 2019:** Received Excellent Applicable Prize.
 - **7th AI City Challenge 2023:** Achieved Third Place on Public Board.
-- **MAIA Machine Learning Skin Lesion Classification Challenge:** Achieved 1st place results for three-class classification and 2nd place for binary classification.
-- **MAIA Deep Learning Skin Lesion Classification Challenge:** Achieved 1st place results for three-class classification and 2nd place for binary classification.
+- **MAIA Machine Learning Skin Lesion Classification Challenge:** Achieved 1st place for three-class classification and 2nd place for binary classification.
+- **MAIA Deep Learning Skin Lesion Classification Challenge:** Achieved 1st place for both three-class classification and binary classification.
