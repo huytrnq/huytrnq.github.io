@@ -97,6 +97,8 @@ _Ha Noi University of Science and Technology_
   Deep Learning Project: Developed a deep learning model for skin lesion classification. Achieved 1st place results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.957 (1st place) for three-class classification and 0.952 (2nd place) for binary classification.
 - [**Brain Tissue Segmentation**](https://github.com/huytrnq/BrainSegmentation)  
   Medical Imaging Project: Developed a model for brain tissue segmentation in MRI images. Developed different methods for brain mri segmentation, including slice-based segmentation, 3D segmentation and patch-based segmentation. The final model achieved an average Dice score of 0.940
+- [**Lung Registration**](https://github.com/Sumeet-Dash1/MIRA-COPDgene)
+  Developed and evaluated segmentation and registration pipelines for lung CT images from the COPDGene study. Achieved an average Target Registration Error (TRE) of ~1.5mm for test cases, utilizing techniques such as B-spline transformations and deep learning-based segmentation.
 - [**Skin Lesion Classification**](https://github.com/huytrnq/Skin-Lesion-Classification)  
   Machine Learning Project: Developed a machine learning model for skin lesion classification, addressing two tasks: three-class classification and binary classification. Achieved top-ranking results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.773 (1st place) for three-class classification and 0.856 (2nd place) for binary classification.
 - [**Expectation Maximization Algorithm**](https://github.com/huytrnq/ExpectationMaximization)  
