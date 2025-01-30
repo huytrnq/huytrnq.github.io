@@ -54,6 +54,13 @@ _Ha Noi University of Science and Technology_
 **GPA:** 3.3/4.0
 
 ## 🔧 Skills
+
+  - **Language**:
+
+      ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+      ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+      ![CUDA](https://img.shields.io/badge/CUDA%20-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+
   - **Frameworks and Libraries**:
 
       ![Pytorch](https://img.shields.io/badge/Pytorch%20-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -78,12 +85,6 @@ _Ha Noi University of Science and Technology_
       ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  - **Operating Systems**:
-
-      ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-      ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-      ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-      ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
   - **Extras**:
 
@@ -93,7 +94,7 @@ _Ha Noi University of Science and Technology_
 ## 🚀 Projects & Challenges
 
 ### Projects
-- [**Deep Leison Classification**](https://github.com/huytrnq/Deep-Skin-Lesion-Classification)  
+- [**Deep Lesion Classification**](https://github.com/huytrnq/Deep-Skin-Lesion-Classification)  
   Deep Learning Project: Developed a deep learning model for skin lesion classification. Achieved top-ranking results in the Computer-Aided Diagnosis course at the University of Girona, with the model attaining an accuracy of 0.957 (1st place) for three-class classification and 0.952 (1st place) for binary classification.
 - [**Brain Tissue Segmentation**](https://github.com/huytrnq/BrainSegmentation)  
   Medical Imaging Project: Developed a model for brain tissue segmentation in MRI images. Developed different methods for brain mri segmentation, including slice-based segmentation, 3D segmentation and patch-based segmentation. The final model achieved an average Dice score of 0.933 for the test set and 2nd place in the challenge.
