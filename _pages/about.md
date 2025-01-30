@@ -30,3 +30,11 @@ _University of Girona, University of Cassino, University of Burgundy_
 _Ha Noi University of Science and Technology_  
 **Graduation Thesis:** 9.5/10  
 **GPA:** 3.3/4.0
+
+## 💼 Experience
+**Intern – AI/Computer Vision**
+_ScreenPoint Medical, Nijmegen, Netherlands_
+**Duration:**: February 2025 – Present
+  - Contributing to research and development of AI-driven solutions for breast imaging.
+  - Applying deep learning and computer vision techniques to enhance detection and diagnostic capabilities.
+  - Automation with MLOps and CI/CD pipelines for model deployment and testing.
