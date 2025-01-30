@@ -33,7 +33,7 @@ _Ha Noi University of Science and Technology_
 ## 💼 Experience
 **Intern – AI/Computer Vision**  
 _ScreenPoint Medical, Nijmegen, Netherlands_  
-**Duration:**: February 2025 – Present  
+**Duration:** February 2025 – Present  
   - Contributing to research and development of AI-driven solutions for breast imaging.
   - Applying deep learning and computer vision techniques to enhance detection and diagnostic capabilities.
   - Automation with MLOps and CI/CD pipelines for model deployment and testing.
