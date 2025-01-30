@@ -21,7 +21,6 @@ Optimization on CUDA for Accelerated AI Model Performance
 
 
 ## 🎓 Education
-
 **Master of Medical Imaging and Applications**  
 _University of Girona, University of Cassino, University of Burgundy_  
 **Duration:** September 2023 – Present
@@ -32,9 +31,9 @@ _Ha Noi University of Science and Technology_
 **GPA:** 3.3/4.0
 
 ## 💼 Experience
-**Intern – AI/Computer Vision**
-_ScreenPoint Medical, Nijmegen, Netherlands_
-**Duration:**: February 2025 – Present
+**Intern – AI/Computer Vision**  
+_ScreenPoint Medical, Nijmegen, Netherlands_  
+**Duration:**: February 2025 – Present  
   - Contributing to research and development of AI-driven solutions for breast imaging.
   - Applying deep learning and computer vision techniques to enhance detection and diagnostic capabilities.
   - Automation with MLOps and CI/CD pipelines for model deployment and testing.
