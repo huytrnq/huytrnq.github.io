@@ -38,6 +38,7 @@ _ScreenPoint Medical, Nijmegen, Netherlands_
 **Duration:** February 2025 – Present  
   - Fine-tuning LLMs and VLMs for structured information extraction and lesion localization
   - Automation with MLOps and CI/CD pipelines for model deployment and testing.
+
 **AI/Computer Vision Engineer**
 _VNPT Information Technology Company_
 **Duration:** March 2020 – August 2023  
