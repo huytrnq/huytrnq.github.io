@@ -24,7 +24,7 @@ Optimization on CUDA for Accelerated AI Model Performance
 ## 🎓 Education
 **Erasmus Joint Master of Medical Imaging and Applications**  
 _University of Girona, University of Cassino, University of Burgundy_  
-**Duration:** September 2023 – Present
+**Duration:** September 2023 – Present  
 **GPA:** 9.1/10.0
 
 **Bachelor of Control Engineering and Automation**  
