@@ -22,7 +22,7 @@ Optimization on CUDA for Accelerated AI Model Performance
 
 
 ## 🎓 Education
-**Erasmus Joint Master of Medical Imaging and Applications**  
+**Erasmus MSc in Computer Vision and AI (Medical Image and Applications – MAIA)**  
 _University of Girona, University of Cassino, University of Burgundy_  
 **Duration:** September 2023 – Present  
 **GPA:** 9.1/10.0

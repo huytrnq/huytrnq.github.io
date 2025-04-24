@@ -45,9 +45,11 @@ Please take a look at my [CV](https://drive.google.com/file/d/1ax9XMtiHUF9ya2zlH
 
 ## 🎓 Education
 
-**Master of Medical Imaging and Applications**  
+**Erasmus MSc in Computer Vision and AI (Medical Image and Applications – MAIA)**  
 _University of Girona, University of Cassino, University of Burgundy_  
-**Duration:** September 2023 – Present
+**Duration:** September 2023 – Present  
+**GPA:** 9.1/10.0
+
 
 **Bachelor of Control Engineering and Automation**  
 _Ha Noi University of Science and Technology_  
