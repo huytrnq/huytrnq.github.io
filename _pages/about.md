@@ -14,11 +14,11 @@ I have hands-on experience with deep learning, large language models (LLMs), and
 Previously, I worked on vehicle detection and license plate recognition systems for smart traffic solutions, and developed models for thyroid nodule detection in ultrasound imaging. These projects reflect my commitment to using AI to solve high-impact, real-world problems.
 
 ## 🔬 Research Interests ##  
-LLM Fine-Tuning Strategies, Multimodal AI Integration, and MLOps for Scalable Deployment
-Deep Learning and Computer Vision for Real-World Applications  
-AI in Medical Imaging and Applications  
-Self-Supervised Learning in Medical Diagnostics  
-Optimization on CUDA for Accelerated AI Model Performance
+**LLM & Vision-Language Models**: Efficient fine-tuning techniques and seamless multimodal integration	  
+**Scalable MLOps**: Designing robust pipelines for deployment, monitoring, and lifecycle management of AI systems  
+**Applied Computer Vision**: Building deep learning solutions for complex, real-world image and video data  
+**Representation Learning**: Exploring self-supervised and contrastive approaches for rich, transferable embeddings  
+**Performance Optimization**: Accelerating training and inference through GPU programming and CUDA-level tuning
 
 
 ## 🎓 Education
